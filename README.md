@@ -1,2 +1,2 @@
 # DecentralizedFinance
- Lending and borrowing platforms
+Lending and borrowing platforms
