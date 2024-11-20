@@ -10,6 +10,11 @@ path = 'contracts/lending-and-borrowing.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.stablecoin]
+path = 'contracts/stablecoin.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.yield-farming]
 path = 'contracts/yield-farming.clar'
 clarity_version = 2
