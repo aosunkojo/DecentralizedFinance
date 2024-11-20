@@ -9,3 +9,5 @@ I
 contracts/stablecoin.clar,b/c/bccb9e2eb8d283764c5c0f70c4d3c193153ab09f
 S
 #tests/lending-and-borrowing.test.ts,a/0/a0d51e27234fa63bfb1b33eb8693ce50219acb4e
+K
+tests/yield-farming.test.ts,4/2/4274e200522f3eb399fbc25e2cb2d9dca8f5b747
