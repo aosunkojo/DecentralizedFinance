@@ -7,3 +7,5 @@ L
 contracts/yield-farming.clar,0/3/0394cdf7bc424b8277031c1c5ffdbe97c088b766
 I
 contracts/stablecoin.clar,b/c/bccb9e2eb8d283764c5c0f70c4d3c193153ab09f
+S
+#tests/lending-and-borrowing.test.ts,a/0/a0d51e27234fa63bfb1b33eb8693ce50219acb4e
