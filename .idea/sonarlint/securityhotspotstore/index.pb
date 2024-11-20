@@ -11,3 +11,5 @@ S
 #tests/lending-and-borrowing.test.ts,a/0/a0d51e27234fa63bfb1b33eb8693ce50219acb4e
 K
 tests/yield-farming.test.ts,4/2/4274e200522f3eb399fbc25e2cb2d9dca8f5b747
+H
+tests/stablecoin.test.ts,3/d/3d459d12e9db87ac49658a4a657817cdd79939dd
